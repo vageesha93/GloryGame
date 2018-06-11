@@ -11,6 +11,8 @@ import Glory_Schema.LetterValueElement;
 /**
  *
  * @author vagee
+ *
+ * ghvhg
  */
 public class GloryGame {
 
