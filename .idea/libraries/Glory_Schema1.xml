@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Glory_Schema1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/classes/Glory_Schema.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
